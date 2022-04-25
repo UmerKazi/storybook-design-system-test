@@ -1,10 +1,6 @@
-# v0.1.1 (Mon Apr 25 2022)
+# v0.1.0 (Tue Mar 09 2021)
 
-#### ⚠️ Pushed to `main`
-
-- . ([@UmerKazi](https://github.com/UmerKazi))
-- update ([@UmerKazi](https://github.com/UmerKazi))
-- init ([@UmerKazi](https://github.com/UmerKazi))
+- Created first version of the design system, with `Avatar`, `Badge`, `Button`, `Icon` and `Link` components.
 
 #### Authors: 1
 
